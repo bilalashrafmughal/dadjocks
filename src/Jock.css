@@ -1,0 +1,35 @@
+.Jock{
+    display: flex;
+    padding: 1rem;
+    border-bottom: 1px solid rgb(218, 216, 216);
+    width: 100%;
+}
+.Jock-buttons{
+    width: 20%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.Jock-buttons i {
+    margin: 5px;
+    margin-top: 17px;
+}
+.Jock-votes{
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    box-shadow: 3px 3px 8px rgb(145, 142, 142);
+}
+.Jock-text{
+    width: 70%;
+}
+.Jock-emoji{
+    width: 5%;
+    font-size: 2rem;
+    color: rgb(97, 245, 97)
+}
+
+
